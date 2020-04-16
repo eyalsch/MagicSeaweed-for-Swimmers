@@ -1,0 +1,122 @@
+.tg {
+	border-collapse:collapse;
+	border-spacing:0;
+	border-color:#9ABAD9;
+	font-family:Arial, sans-serif;
+	margin: 0px auto;
+}
+.tg td {
+	font-size:medium;
+	padding:5px 5px;
+	border-style:solid;
+	border-width:3px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:#9ABAD9;
+	color:#444;
+}
+.tg th {
+	font-size:medium;
+	padding:10px 10px;
+	border-style:solid;
+	border-width:3px;
+	word-break:normal;
+	border-color:#9ABAD9;
+	color:#fff;
+	background-color:#409cff;
+}
+.tg .tg-date {
+	font-size:medium;
+	color:black;
+	background-color:#EBF5FF;
+	text-align:center;
+}
+.tg .tg-wave {
+	font-size:medium;
+	background-color:#EBF5FF;
+	color:black;
+	text-align:center
+}
+.tg .tg-swell {
+	font-size:medium;
+	background-color:#EBF5FF;
+	color:black;
+	text-align:center
+
+}
+.tg .tg-wind {
+	font-size:medium;
+	background-color:#EBF5FF;
+	color:black;
+	text-align:center
+}
+.tg .tg-score {
+	font-size:samll;
+	color:black;
+	text-align:center
+}
+
+.tg-score .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.tg-score:hover .tooltiptext, .tg-score:active .tooltiptext {
+	visibility: visible;
+}
+
+.tg .tg-break {
+	font-size:medium;
+	padding:3px 10px;
+	border-style:solid;
+	border-width:3px;
+	word-break:normal;
+	border-color:#9ABAD9;
+	color:#fff;
+	background-color:#409cff;
+}
+
+.tl {
+	border-collapse:collapse;
+	border-spacing:0;
+	border-color:#9ABAD9;
+}
+.tl td {
+	font-size:medium;
+	padding:10px 10px;
+	border-style:solid;
+	border-width:3px;
+	word-break:normal;
+	border-color:#9ABAD9;
+	color:#444;
+}
+.tl th {
+	font-size:medium;
+	padding:10px 10px;
+	border-style:solid;
+	border-width:3px;
+	word-break:normal;
+	border-color:#9ABAD9;
+	color:#fff;
+	background-color:#409cff;
+}
+
+.tl .tl-red{background-color:red;text-align:left}
+.tl .tl-gray{background-color:gray;text-align:left}
+.tl .tl-yellow{background-color:yellow;text-align:left}
+.tl .tl-green{background-color:green; text-align:left}
+.tl .tl-legend-text{text-align:left}
+
+div .arrow {
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	margin-left: 5px;
+}
