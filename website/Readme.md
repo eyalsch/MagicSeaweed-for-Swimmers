@@ -1,0 +1,1 @@
+# MagicSeaweed for Swimmers website
